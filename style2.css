@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+p {
+	font-family: Arial, sans-serif;
+	font-size: 18px;
+	text-indent: 30px;
+	line-height: 200%;
+}
+.wrapper {
+	margin: 50px auto;
+	max-width: 800px;
+}
+.bold {
+	font-weight: bold;
+}
+.yellow {
+	background-color: yellow;
+}
+.red {
+	color: red;
+}
+.capitalize {
+	text-transform: uppercase;
+}
+.word {
+	font-size: 25px;
+}
+.line {
+	text-decoration: underline;
+}
+.line-through {
+	text-decoration:line-through;
+}
+
+
+strong для сео оптимизации

@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.header {
+	font-size: 27px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.red {
+	color: red;
+}
+.bgyellow {
+	background-color: yellow;
+}
+.italic {
+	font-style: italic;
+}
+.bold {
+	font-weight: bold;
+}
+p {
+	font-size: 18px;
+	font-family: Arial, sans-serif;
+}
+.word {
+	font-size: 25px;
+}
+.lineblue {
+	text-decoration: underline;
+	color: blue;
+}
